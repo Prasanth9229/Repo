@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_299121_hr_reques_hr_request_table</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-11 12:00:55</sys_created_on>
+        <sys_id>788919b8db383f00fcfda0f2ca9619e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_299121_hr_reques_hr_request_table</sys_name>
+        <sys_package display_value="HR Request" source="x_299121_hr_reques">d489d5b8db383f00fcfda0f2ca96195e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR Request">d489d5b8db383f00fcfda0f2ca96195e</sys_scope>
+        <sys_update_name>ua_table_licensing_config_788919b8db383f00fcfda0f2ca9619e8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-11 12:00:55</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>

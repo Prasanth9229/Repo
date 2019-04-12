@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_choice_2" label="New Choice" language="en" table="x_299121_hr_reques_hr_request_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_choice_2</element>
+            <help/>
+            <hint/>
+            <label>New Choice</label>
+            <language>en</language>
+            <name>x_299121_hr_reques_hr_request_table</name>
+            <plural>New Choices</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-11 12:25:13</sys_created_on>
+            <sys_id>bc1fddbcdb383f00fcfda0f2ca96199b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New Choice</sys_name>
+            <sys_package display_value="HR Request" source="x_299121_hr_reques">d489d5b8db383f00fcfda0f2ca96195e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HR Request">d489d5b8db383f00fcfda0f2ca96195e</sys_scope>
+            <sys_update_name>sys_documentation_x_299121_hr_reques_hr_request_table_u_choice_2_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-11 12:25:13</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

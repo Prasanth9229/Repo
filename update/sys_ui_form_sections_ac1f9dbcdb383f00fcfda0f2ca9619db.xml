@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="ac1f9dbcdb383f00fcfda0f2ca9619db" sys_domain="global" table="x_299121_hr_reques_hr_request_table" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-11 12:25:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e81f9dbcdb383f00fcfda0f2ca9619df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_299121_hr_reques_hr_request_table" name="x_299121_hr_reques_hr_request_table" sys_domain="global" view="Default view">ac1f9dbcdb383f00fcfda0f2ca9619db</sys_ui_form>
+            <sys_ui_section caption="wedwe" display_value="wedwe" name="x_299121_hr_reques_hr_request_table" sys_domain="global" view="Default view">bffa99b8db383f00fcfda0f2ca9619ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-11 12:25:13</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-11 12:25:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>241fddbcdb383f00fcfda0f2ca961969</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_299121_hr_reques_hr_request_table" name="x_299121_hr_reques_hr_request_table" sys_domain="global" view="Default view">ac1f9dbcdb383f00fcfda0f2ca9619db</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_299121_hr_reques_hr_request_table" sys_domain="global" view="Default view">601f9dbcdb383f00fcfda0f2ca9619db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-11 12:25:13</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_299121_hr_reques_hr_request_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-11 12:25:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ac1f9dbcdb383f00fcfda0f2ca9619db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_299121_hr_reques_hr_request_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="HR Request" source="x_299121_hr_reques">d489d5b8db383f00fcfda0f2ca96195e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HR Request">d489d5b8db383f00fcfda0f2ca96195e</sys_scope>
+            <sys_update_name>sys_ui_form_sections_ac1f9dbcdb383f00fcfda0f2ca9619db</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-11 12:25:13</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

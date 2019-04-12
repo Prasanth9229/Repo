@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>HR Request Table</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>HR Request Table</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Application File" name="Application File">49d91470db103300fcfda0f2ca961912</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-11 12:25:13</sys_created_on>
+        <sys_id>a01fddbcdb383f00fcfda0f2ca96196d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HR Request Table</sys_name>
+        <sys_package display_value="HR Request" source="x_299121_hr_reques">d489d5b8db383f00fcfda0f2ca96195e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR Request">d489d5b8db383f00fcfda0f2ca96195e</sys_scope>
+        <sys_update_name>sys_wizard_answer_a01fddbcdb383f00fcfda0f2ca96196d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-11 12:25:13</sys_updated_on>
+        <table/>
+        <target_url>x_299121_hr_reques_hr_request_table.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

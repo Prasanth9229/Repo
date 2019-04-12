@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=true,update_synch=true" audit="true" extends="sys_metadata" label="HR Request Table" max_length="40" name="x_299121_hr_reques_hr_request_table" type="collection">
+        <element label="New Audio" max_length="40" name="u_audio_1" type="audio"/>
+        <element label="New Audio" max_length="40" name="u_audio_2" type="audio"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="New Choice" max_length="40" name="u_choice_2" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="omit_sys_original=true" label="New Currency" max_length="20" name="u_currency_4" type="currency"/>
+        <element label="New Data Structure" max_length="800" name="u_data_structure_3" type="data_structure"/>
+        <element label="New Decimal" max_length="15" name="u_decimal_7" type="decimal"/>
+        <element label="New Due Date" max_length="40" name="u_due_date_8" type="due_date"/>
+        <element label="New Field Name" max_length="80" name="u_field_name_10" type="field_name"/>
+        <element label="New File Attachment" max_length="40" name="u_file_attachment_11" type="file_attachment"/>
+        <element attributes="edge_encryption_enabled=true" label="New Date" max_length="40" name="u_glide_date_5" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="New Date/Time" max_length="40" name="u_glide_date_time_6" type="glide_date_time"/>
+        <element label="New Duration" max_length="40" name="u_glide_duration_9" type="glide_duration"/>
+        <element label="New HTML" max_length="65536" name="u_html_12" type="html"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="New Price" max_length="20" name="u_price_14" type="price"/>
+        <element label="New Reference" max_length="32" name="u_reference_15" reference="cmdb_ci_appl_dot_net" type="reference"/>
+        <element label="New Name-Value Pairs" max_length="4000" name="u_simple_name_values_13" type="simple_name_values"/>
+        <element attributes="base_start=true" label="New Table Name" max_length="80" name="u_table_name_16" type="table_name"/>
+        <element label="New Translated Text" max_length="40" name="u_translated_text_17" type="translated_text"/>
+        <element attributes="edge_encryption_enabled=true" label="New URL" max_length="1024" name="u_url_18" type="url"/>
+        <element attributes="is_multi_text=true,preview_first=true,preview_selector=true" label="New Wiki" max_length="65536" name="u_wiki_text_19" type="wiki_text"/>
+        <index name="index">
+            <element name="u_reference_15"/>
+        </index>
+    </element>
+</database>
