@@ -4,7 +4,7 @@
         <admin_overrides>true</admin_overrides>
         <advanced>false</advanced>
         <condition/>
-        <description>Default access control on x_299121_hr_reques_hr_request_table</description>
+        <description>Default access control on x_299121_hr_reques_hr_request_table---Value from GitHub</description>
         <name>x_299121_hr_reques_hr_request_table</name>
         <operation display_value="delete">delete</operation>
         <script/>
